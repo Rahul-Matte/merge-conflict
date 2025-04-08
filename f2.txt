@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 hello
 feature branch
+=======
+remote repository
+>>>>>>> 9900cf3846913a43b734b9dbc21ba781befb298e
